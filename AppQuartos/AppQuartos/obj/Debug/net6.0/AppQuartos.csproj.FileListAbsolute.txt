@@ -1,0 +1,15 @@
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\bin\Debug\net6.0\AppQuartos.exe
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\bin\Debug\net6.0\AppQuartos.deps.json
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\bin\Debug\net6.0\AppQuartos.runtimeconfig.json
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\bin\Debug\net6.0\AppQuartos.dll
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\bin\Debug\net6.0\AppQuartos.pdb
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.csproj.AssemblyReference.cache
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.AssemblyInfoInputs.cache
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.AssemblyInfo.cs
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.dll
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\refint\AppQuartos.dll
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.pdb
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\AppQuartos.genruntimeconfig.cache
+C:\Users\cristiano.silva\source\repos\AppQuartos\AppQuartos\obj\Debug\net6.0\ref\AppQuartos.dll
